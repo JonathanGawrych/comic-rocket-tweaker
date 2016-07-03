@@ -1,4 +1,7 @@
 
+## Version 4 - Add ability to hide comics
+Tranforms the add button into a hide comic button. This is to help you ignore comics that may constant pop up during exploring.
+
 ## Version 3 - Use GM_addStyle
 Using GM_addStyle, instead of manually editing stylesheets, a new style sheet is injected in for more ease and efficiency.
 

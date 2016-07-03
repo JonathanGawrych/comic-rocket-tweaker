@@ -1,3 +1,3 @@
-# Comic Rocket User Script
+# Comic Rocket Tweaker
 
-Comic Rocket adds various user's profile pictures every comic serial as "Selected Readers". This script removes them, and tidies up the empty space.
+Tweaks some minor visuals (removes "Selected Readers") and allows you to hide comics when exploring for a new one.
